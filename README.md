@@ -1,2 +1,2 @@
 # NutritionLabel
-Typography - Nutrition label. 
+Typography - Nutrition label. <-- FreeCodeCamp project -->
